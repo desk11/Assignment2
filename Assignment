@@ -1,1 +1,91 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>My Website</title>
+    </head >
+        <body align:center>
+          <div style=" border:1px solid black; width:100%
+;">
+ <table class="container" width="100%" bgcolor="white" bordercolor="white">
+      <tr id="navigation" >
+        <th width="100px">ABOUT ME</th>
+        <th width="100px">RESUME</th>
+        <th width="100px">PORTFOLIO</th>
+        <th width="100px">BLOG</th>
+        <th width="100px">CONTACT ME</th>
+         </tr>
+         </table>
+
+</div>
+      
+<p>
+      <h2 align="left">RESUME <button bgcolor="white">EDIT RESUME</button></h2>
+
+
+</p>          
+
+<div style=" border:1px solid black; width:40%
+;height:600px ;margin-top:px ;margin-left:5%;float:left">
+ <h3 align="center">PROFESSIONAL DETAILS</h3>
+
+<img width="100%" height="200px" src="Pictures/Telegram/IMG_20230125_153341_236.jpg">
+
+      </div>
+            <div 
+   <div style=" border:1px solid black; width:50%
+;height:60px; margin-left:47% " > 
+<table width="100px">
+<th><h3>ABOUT ME</h3> </th>
+</table>
+      </div>
+       <div style=" border:1px solid black; width:50%
+;height:400px; margin-left:47% " >
+
+<table width="100%">
+<th width="100px" align="left"><h3>NAME</h3> </th>
+<th width="100px" align="left">Peter Parker</th>
+<th width="100px" align="left"><h3>AGE</h3> </th>
+<th width="100px" align="left">18 Years</th>
+</table>
+
+<table width="100%">
+<th width="100px" align="left"><h3>LOCATION</h3> </th>
+<th width="100px" align="left">USA</th>
+<th width="100px" align="left"><h3>EXPERIENCE</h3> </th>
+<th width="100px" align="left">15 Years</th>
+</table>
+
+
+<table width="100%">
+<th width="100px" align="left"><h3>DEGREE</h3> </th>
+<th width="100px" align="left">MBA</th>
+<th width="100px" align="left"><h3>CAREER-LEVEL</h3> </th>
+<th width="100px" align="left">Mid-Level</th>
+</table>
+
+<table width="100%">
+<th width="100px" align="left"><h3>PHONE</h3> </th>
+<th width="100px" align="left">+126577776335</th>
+<th width="100px" align="left"><h3>FAX</h3> </th>
+<th width="100px" align="left">030643697</th>
+</table>
+
+<table width="100%">
+<th width="100px" align="left"><h3>E-MAIL</h3> </th>
+<th width="100px" align="left">example@example.com</th>
+<th width="100px" align="left"><h3>WEBSITE</h3> </th>
+<th width="100px" align="left">example.com</th>
+</table>
+
+      </div>
+      
+   <div style=" border:1px solid black; width:50%
+;height:135px; margin-left:47% " >
+      </div>
+
+   <div style=" border:1px solid black; width:100%
+;height:40px;margin-top:px " >
+      </div>
+        </body>
+    </html>
 
